@@ -1,0 +1,22 @@
+[
+    {
+        "imagen": "https://image.shutterstock.com/image-vector/user-icon-trendy-flat-style-600w-418179865.jpg",
+        "titulo": "ejemplo de uso de las sentencias de creacion de tabablas",
+        "sitie": "www.index.html"
+    },
+    {
+        "imagen": "https://image.shutterstock.com/image-vector/user-icon-trendy-flat-style-600w-418179865.jpg",
+        "titulo": "ejemplo de uso de las sentencias en la insercios de base de datos",
+        "sitie": "www.index.html"
+    },
+    {
+        "imagen": "https://image.shutterstock.com/image-vector/user-icon-trendy-flat-style-600w-418179865.jpg",
+        "titulo": "ejemplo de uso de las consultas anidadas con la sentencia IN y ",
+        "sitie": "www.index.html"
+    },
+    {
+        "imagen": "https://image.shutterstock.com/image-vector/user-icon-trendy-flat-style-600w-418179865.jpg",
+        "titulo": "ejemplo de uso de las sentencias DML en la base de datos MYSQL",
+        "sitie": "www.index.html"
+    }
+]
